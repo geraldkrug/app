@@ -1,5 +1,6 @@
 <?php
-
+$userame= "";
+$password= "";
 // URL for auto login http://php-gkrug.rhcloud.com?username=test&password=test
 // // https://openshift.redhat.com/  created with github geraldkrug/app/index.php http://php-gkrug.rhcloud.com?username=test&password=test
 //include("upgrade.php");  https://github.com/geraldkrug/app.git
